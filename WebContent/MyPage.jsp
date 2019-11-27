@@ -16,10 +16,10 @@
 			<nav>
 				<ul class="menu">
 
-					<li><a href="">Home</a></li>
-
+					<li><a href="Main.jsp">Home</a></li>
+<!-- 
 					<li><a href="">My Page</a></li>
-					
+					 -->
 					<li><a href="">회원정보수정</a></li>
 					
 				</ul>
